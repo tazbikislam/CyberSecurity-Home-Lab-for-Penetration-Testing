@@ -2,7 +2,7 @@
 
 
 ## Overview
-A personal allocated cybersecurity home lab provides a safe and controlled environment to conduct Penetration Testing, Vulnerability Assessment, Network Defense.
+A personal allocated cybersecurity home lab provides a safe and controlled environment to conduct Penetration Testing, Vulnerability Assessment, Network Atatck/Defense.
 
 
 ## Setup
