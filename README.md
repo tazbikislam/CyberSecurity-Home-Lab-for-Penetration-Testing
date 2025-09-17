@@ -65,7 +65,7 @@ A personal allocated cybersecurity home lab provides a safe and controlled envir
 <br>
 <br>
 
-2. Outdated system packages and software repositories can cause issue during scans and exploits which can be resolved by updating system packages and software repositories. For that open launch the terminal and run the following commands.
+2. Outdated system packages and software repositories can cause issue during scans and exploits which can be resolved by updating system packages and software repositories. For that launch the terminal and run the following commands.
 ```sh
 sudo apt update && sudo apt upgrade -y
 ```
